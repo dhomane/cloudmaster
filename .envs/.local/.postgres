@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=cloudmaster
+POSTGRES_USER=vnnGmAQUoZbjVKsRMJPmwGmDRbfcebLM
+POSTGRES_PASSWORD=MgBg0bZLAWU93o2ti4nV8O5k06Kk9oc2oWP9w83K5ZxD4KTS9ToUWn7NF5CJTPtU
